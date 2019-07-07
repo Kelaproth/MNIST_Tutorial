@@ -1,3 +1,5 @@
+Learning TensorFlow...
+
 The file contains:
 * folder MNIST_data: contains mnist data
 * folder model: contains trained model, the graph and variable (deleted: too large)
